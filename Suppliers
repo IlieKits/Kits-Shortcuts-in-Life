@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kits Shortcuts for CS</title>
+    <link href="index.css" rel="stylesheet">
+</head>
+<body>
+    <div class="topnav" id="myTopnav">
+        <a href="index.html">Home</a>
+        <a href="ProgressA.html">Applications</a>
+        <a href="ProgressB.html" class="active">Suppliers</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
+
+    <table style="width:50%" cellpadding="10px" cellspacing="10px">
+        <tr>
+            <td><a href="https://www.w3docs.com/" class="button button1" target="_blank">Click Here</a></td>
+            <td><a href="https://www.w3docs.com/" class="button button1" target="_blank">Click Here</a></td>
+            <td><a href="https://www.w3docs.com/" class="button button1" target="_blank">Click Here</a></td>
+            <td><a href="https://www.w3docs.com/" class="button button1" target="_blank">Click Here</a></td>
+            <td><a href="https://www.w3docs.com/" class="button button1" target="_blank">Click Here</a></td>
+            <td><a href="https://www.w3docs.com/" class="button button1" target="_blank">Click Here</a></td>
+        </tr>
+    </table>
+</body>
+</html>
